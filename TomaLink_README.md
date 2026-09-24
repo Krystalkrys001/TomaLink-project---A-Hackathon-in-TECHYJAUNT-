@@ -20,7 +20,7 @@ Fellow Data Analysts on this project: Suleiman Titilayo Khadijat, Eunice Istifan
 
 ## Data Validation
 
-The pilot dataset (`Tomato_Supply_raw_Dataset.xlsx`) contains 5,000 farm-level records across five tomato-producing states (Jigawa, Bauchi, Plateau, Kaduna, Kano), spanning the full 2025 calendar year. It is synthetic data built on real published benchmarks (FAOSTAT, National Bureau of Statistics, and existing agricultural literature), not live production data, and the source file states this directly in every row.
+The pilot dataset (Tomato_Supply_raw_Dataset.xlsx) contains 5,000 farm-level records across five tomato-producing states (Jigawa, Bauchi, Plateau, Kaduna, Kano), spanning the full 2025 calendar year. It is synthetic data built on real published benchmarks (FAOSTAT, National Bureau of Statistics, and existing agricultural literature), not live production data, and the source file states this directly in every row.
 
 Before analysis, every column was checked for internal consistency:
 

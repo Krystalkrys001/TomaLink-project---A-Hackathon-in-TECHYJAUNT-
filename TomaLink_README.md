@@ -63,11 +63,11 @@ Before recommending a product direction, I researched seven existing agricultura
 | Farmcrowdy (Nigeria) | Public crowdfunding of individual farms | Any public-facing investment or sponsorship feature needs full regulatory transparency from day one, or it risks losing user trust entirely |
 | ITC e-Choupal (India) | Shared village internet kiosks for price data and direct sales, launched 2000 | Proves simple, low-cost technology can transform an entire supply chain nationally. Since many smallholder tomato farmers may not own a smartphone, a shared or assisted access option is worth considering alongside the mobile app |
 
-Full platform profiles, feature breakdowns, and sourced citations are documented in `Agricultural_Supply_Chain_Platforms_Research.docx`.
+Full platform profiles, feature breakdowns, and sourced citations are documented in Agricultural_Supply_Chain_Platforms_Research.docx.
 
 ## Dataset Structure
 
-`Tomato_Supply_raw_Dataset.xlsx` contains 5,000 rows and 39 columns covering the full farm-to-market chain:
+Tomato_Supply_raw_Dataset.xlsx contains 5,000 rows and 39 columns covering the full farm-to-market chain:
 
 | Category | Columns |
 |---|---|
